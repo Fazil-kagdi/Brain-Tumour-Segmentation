@@ -1,0 +1,6 @@
+*.pth
+
+Task01_BrainTumour
+
+*.nii.gz
+*.npy 
